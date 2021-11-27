@@ -1,3 +1,5 @@
+Mini-Projeto do curso de Node.js (Matheus Battisti)
+
 ### Tecnologias
 
 Módulos utilizados: Inquirer, Chalk, FS, Path
